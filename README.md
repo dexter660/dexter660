@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Dexter 👋
+
+## GitHub Stats
+
+![Dexter's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexter660&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dexter660&layout=compact&theme=radical)
+
+## Streak Stats
+
+![Dexter's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=dexter660&theme=radical)
